@@ -8,12 +8,7 @@
 export default {
   name: 'BookItem',
   props: ['book']
-  data() {
-    return {
-      title: 'All Books',
-    
-    };
-  },
+
 };
 </script>
 
